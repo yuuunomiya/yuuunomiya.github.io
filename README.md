@@ -1,2 +1,7 @@
 # yuuunomiya.github.io
-web site
+
+Webサイト
+
+- https://yuuunomiya.net/
+- https://page.yuuunomiya.net/
+- https://yuuunomiya.github.io
